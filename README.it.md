@@ -26,7 +26,7 @@ $ cat profilo.txt
 corso     Laurea in Informatica per il Management — 3° anno
 dove      Alma Mater Studiorum · Università di Bologna
 focus     cybersecurity · sistemi e reti · crittografia · software engineering
-progetti  Synapse (Electron + TypeScript) · Orbit (Swift + SwiftUI)
+progetti  Synapse (Electron + TypeScript) · Orbit (Swift + SwiftUI) · StudyOS (FastAPI + React)
 lingue    italiano (madrelingua) · inglese (intermedio, in preparazione B2) · francese (intermedio)
 ```
 
@@ -82,19 +82,37 @@ App nativa di manutenzione per macOS che mostra cosa sta davvero facendo il Mac 
 <a href="https://github.com/Sero3105/Orbit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sero3105&repo=Orbit&bg_color=0d1117&title_color=4cc9b0&text_color=c9d1d9&icon_color=4cc9b0&hide_border=true" alt="Scheda repository Orbit" /></a>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [StudyOS](https://github.com/Sero3105/studyOS)
+
+**Il sistema operativo per lo studio: pianifica, studia, traccia, analizza, migliora.**
+
+Planner di studio self-hosted: materie e argomenti, task, esami, sessioni Pomodoro, obiettivi e statistiche, più calendario settimanale, backup JSON, promemoria delle scadenze e condivisione in sola lettura revocabile. Setup Docker blindato: container read-only, nginx come unico ingresso, argon2, refresh token a rotazione con protezione CSRF.
+
+`FastAPI` `React 19` `TypeScript` `SQLite` `Docker`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/Sero3105/studyOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sero3105&repo=studyOS&bg_color=0d1117&title_color=4cc9b0&text_color=c9d1d9&icon_color=4cc9b0&hide_border=true" alt="Scheda repository StudyOS" /></a>
+</td>
+</tr>
 </table>
 
 ## `> toolkit`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,swift,py,html,css,electron,matlab,git,linux&theme=dark&perline=11" alt="Java, TypeScript, JavaScript, Swift, Python, HTML, CSS, Electron, MATLAB, Git, Linux" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,swift,py,html,css,react,fastapi,sqlite,electron,docker,matlab,git,linux&theme=dark&perline=15" alt="Java, TypeScript, JavaScript, Swift, Python, HTML, CSS, React, FastAPI, SQLite, Electron, Docker, MATLAB, Git, Linux" />
 </div>
 
 <br>
 
 | `linguaggi` | `strumenti e piattaforme` | `fondamenti` |
 | :-- | :-- | :-- |
-| Java · TypeScript · JavaScript · Swift · Python · SQL · HTML · CSS | Git · Linux · sviluppo macOS · Electron · MATLAB · Markdown | Algoritmi e strutture dati · database relazionali · software engineering · crittografia |
+| Java · TypeScript · JavaScript · Swift · Python · SQL · HTML · CSS | Git · Linux · Docker · FastAPI · React · sviluppo macOS · Electron · MATLAB · Markdown | Algoritmi e strutture dati · database relazionali · software engineering · crittografia |
 
 ## `> attività`
 
@@ -109,7 +127,7 @@ App nativa di manutenzione per macOS che mostra cosa sta davvero facendo il Mac 
 + rafforzare le basi sul software sicuro e di rete
 + approfondire i sistemi operativi: processi, permessi, servizi e i loro confini
 + studiare la crittografia oltre i termini di moda, fino al suo uso pratico
-+ continuare a rilasciare iterazioni mirate di Synapse e Orbit
++ continuare a rilasciare iterazioni mirate di Synapse, Orbit e StudyOS
 ```
 
 ## `> contatti`
